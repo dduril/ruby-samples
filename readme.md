@@ -1,5 +1,7 @@
 # Ruby on Rails
 
+Ruby and Ruby on Rails study.
+
 ### Ruby Programming Language
 
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
@@ -25,3 +27,12 @@
 
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
+
+### Recommended Books
+
+- Agile Web Development with Rails
+- Eloquent Ruby
+- Programming Ruby (Pick-axe book)
+- Ruby on Rails 3 Tutorial
+- The Rails Way
+- The Well-Grounded Rubyist
