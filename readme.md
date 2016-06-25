@@ -2,6 +2,10 @@
 
 Ruby and Ruby on Rails study.
 
+### Getting Started
+
+- **<a href="http://railsinstaller.org/en" target="_blank">RailsInstaller</a>**
+
 ### Ruby Programming Language
 
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
