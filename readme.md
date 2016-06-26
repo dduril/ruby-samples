@@ -32,6 +32,11 @@ Ruby and Ruby on Rails study.
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
+### Tutorials
+
+- **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
+- **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
+
 ### Recommended Books
 
 - Agile Web Development with Rails
