@@ -32,6 +32,14 @@ Ruby and Ruby on Rails study.
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
+### Additional Tools
+
+- **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
+- **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
+- **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+- **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
+- **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
+
 ### Tutorials
 
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
