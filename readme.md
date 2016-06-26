@@ -32,7 +32,7 @@ Ruby and Ruby on Rails study.
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
-### Additional Tools
+### Often Used with Rails Projects
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
