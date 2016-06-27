@@ -47,6 +47,12 @@ The goal is to provide a Ruby on Rails primer with resources for getting started
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
 
+### Deployment Options
+
+- **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
+- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
+- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
+
 ### Recommended Books
 
 - Agile Web Development with Rails
