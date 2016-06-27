@@ -1,6 +1,6 @@
 # Ruby on Rails
 
-Ruby and Ruby on Rails study.
+The goal is to provide a Ruby on Rails primer with resources for getting started, essential websites and general examples of the Ruby programming language and Rails command-line interface. 
 
 ### Getting Started
 
@@ -36,6 +36,8 @@ Ruby and Ruby on Rails study.
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
