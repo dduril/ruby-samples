@@ -1,6 +1,12 @@
 # Ruby on Rails
 
-The goal is to provide a Ruby on Rails primer with resources for getting started, essential websites and general examples of the Ruby programming language and Rails command-line interface. 
+The goal is to provide a Ruby on Rails primer with resources for getting started, essential websites and examples of the Ruby programming language and Rails command-line interface. 
+
+Included here are popular links for Ruby Programming and Ruby on Rails Web Development.
+
+Additional code samples and command-line scripts will be added to appropriate folders.
+
+---
 
 ### Getting Started
 
@@ -21,16 +27,17 @@ The goal is to provide a Ruby on Rails primer with resources for getting started
 - **<a href="http://rubyonrails.org/" target="_blank">Rails</a>**
 - **<a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank">Rails - Wikipedia</a>**
 
+### Deployment Options
+
+- **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
+- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
+- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
+- 
 ### Development Environments (IDE)
 
 - **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
 - **<a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>**
 - **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
-
-### Tools
-
-- **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
-- **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
 ### Often Used with Rails Projects
 
@@ -41,17 +48,18 @@ The goal is to provide a Ruby on Rails primer with resources for getting started
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
+- 
+### Tools
+
+- **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
+- **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
 ### Tutorials
 
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
 
-### Deployment Options
-
-- **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
-- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
-- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
+---
 
 ### Recommended Books
 
