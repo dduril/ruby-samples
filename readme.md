@@ -48,7 +48,7 @@ Additional code samples and command-line scripts will be added to appropriate fo
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
-- 
+
 ### Tools
 
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
