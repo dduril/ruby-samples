@@ -12,6 +12,30 @@ Additional code samples and command-line scripts will be added to appropriate fo
 
 - **<a href="http://railsinstaller.org/en" target="_blank">RailsInstaller</a>**
 
+After installing Ruby, Rails and RubyGems - check the version:
+
+		C:\>ruby -v
+		ruby 2.1.6p336
+
+		C:\>rails -v
+		Rails 4.2.1
+
+		C:\>gem -v
+		2.4.6
+
+Alternatively, you can also type <i>--version</i>, although most type the <i>-v</i>, as it is much shorter.
+
+		C:\>ruby --version
+		ruby 2.1.6p336
+
+		C:\>rails --version
+		Rails 4.2.1
+
+		C:\>gem --version
+		2.4.6
+
+---
+
 ### Ruby Programming Language
 
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
