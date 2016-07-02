@@ -43,6 +43,8 @@
     			puts "Cherry"
 		end
 
+		# => Apple
+
 <strong>loop</strong>
 
 		x = 0
@@ -51,8 +53,21 @@
 			x += 1
 		end
 
-<strong>iterator</strong>
+<strong>iterators</strong>
 
-		10.times do
+		5.times do
   			puts "Hello"
 		end
+
+		# => HelloHelloHelloHelloHello
+
+		1.upto(5) do |i|
+  			puts i.to_s + ". Hello"
+		end
+
+		# => 1. Hello
+		# => 2. Hello
+		# => 3. Hello
+		# => 4. Hello
+		# => 5. Hello
+		
