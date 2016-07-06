@@ -16,13 +16,14 @@ name = "John"
 puts "This is John" if name == "John"
 puts ""
 
-# unless, case, ternary, or/or-equals
+# unless
 flag = true
 unless flag
   puts "true"
 end
 puts ""
 
+# case
 fruit = "apples"
 case
   when fruit == "apples"
@@ -36,7 +37,7 @@ case
 end
 puts ""
 
-# shorter syntax
+# case - shorter syntax
 fruit = "apples"
 case fruit
   when "apples"
@@ -50,12 +51,9 @@ case fruit
 end
 puts ""
 
-# boolean ? code1 : code2
+# ternary - boolean ? code1 : code2
 puts x == 1 ? "one" : "not one"
 puts ""
-
-
-# loops
 
 # for loop
 for i in 0...10 # don't include 10
@@ -68,6 +66,7 @@ for i in 0..10 # include 10
 end
 puts ""
 
+# loop do
 x = 0
 loop do
   x += 1
@@ -77,11 +76,21 @@ loop do
 end
 puts ""
 
+# while
 y = 0
 while y <= 10
   puts y
   y += 1
 end
+puts ""
+
+# until
+a = 1
+
+until a >= 5 
+  puts a                       
+  a += 1                       
+end 
 puts ""
 
 x = 0
