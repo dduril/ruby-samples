@@ -14,13 +14,14 @@ puts ""
 
 name = "John"
 puts "This is John" if name == "John"
-
+puts ""
 
 # unless, case, ternary, or/or-equals
 flag = true
 unless flag
   puts "true"
 end
+puts ""
 
 fruit = "apples"
 case
@@ -33,6 +34,7 @@ case
   else
     puts "Kiwis"
 end
+puts ""
 
 # shorter syntax
 fruit = "apples"
@@ -46,6 +48,7 @@ case fruit
   else
     puts "Kiwis"
 end
+puts ""
 
 # boolean ? code1 : code2
 puts x == 1 ? "one" : "not one"
@@ -72,41 +75,50 @@ loop do
   puts x
   break if x >= 20
 end
+puts ""
 
 y = 0
 while y <= 10
   puts y
   y += 1
 end
+puts ""
 
 x = 0
 puts x += 2 while x < 100
+puts ""
 
 y = 5000
 puts y /= 2 until y <= 1
-
 puts ""
 
 # iterators
 5.times do
   puts "Hello"
 end
+puts ""
 
 1.upto(5){ puts "Hello World!" }
+puts ""
 
 5.downto(1){ puts "Hello" }
+puts ""
 
 (1..5).each{ puts "Hello World!" }
+puts ""
 
 1.upto(5) do |i|
   puts i.to_s + ". Hello"
 end
+puts ""
 
 fruits = ['apple', 'banana', 'strawberry', 'pear', 'orange']
 fruits.each do |f|
   puts f.capitalize
 end
+puts ""
 
 for fruit in fruits
   puts fruit.capitalize
 end
+puts ""
