@@ -63,16 +63,20 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 - **<a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>**
 - **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 
-### Often Used with Rails Projects
+### Often Used with Rails
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+
+### Often Used with Rails - Databases
+
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
 - **<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>**
+- **<a href="https://www.sqlite.org/" target="_blank">SQLite</a>**
 
 ### Tools
 
