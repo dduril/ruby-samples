@@ -50,20 +50,17 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 
 - **<a href="http://rubyonrails.org/" target="_blank">Rails</a>**
 - **<a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank">Rails - Wikipedia</a>**
+- **<a href="http://bundler.io/" target="_blank">Bundler</a>**
+- **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>** 
 
 ### Deployment Options
 
 - **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
 - **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
+- **<a href="https://toolbelt.heroku.com/" target="_blank">Heroku Toolbelt</a>**
 - **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
 
-### Development Environments (IDE)
-
-- **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
-- **<a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>**
-- **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
-
-### Often Used with Rails
+### Often Used with Rails - Web Development
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
@@ -71,12 +68,18 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 
-### Often Used with Rails - Databases
+### Often Used with Rails - Database
 
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
 - **<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>**
 - **<a href="https://www.sqlite.org/" target="_blank">SQLite</a>**
+
+### Development Environments (IDE)
+
+- **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
+- **<a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>**
+- **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 
 ### Tools
 
