@@ -56,7 +56,7 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 - **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
 - **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
 - **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
-- 
+
 ### Development Environments (IDE)
 
 - **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
@@ -72,6 +72,7 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
+- **<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>**
 
 ### Tools
 
