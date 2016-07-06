@@ -14,3 +14,6 @@ puts "y.class: #{y.class}\n\n"
 
 puts "s:       #{s}"
 puts "s.class: #{s.class}\n\n"
+
+# Output string 5 times
+5.times { puts "Hello World!" }

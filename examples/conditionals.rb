@@ -53,6 +53,18 @@ puts ""
 
 
 # loops
+
+# for loop
+for i in 0...10 # don't include 10
+  puts i 
+end
+puts ""
+
+for i in 0..10 # include 10
+  puts i 
+end
+puts ""
+
 x = 0
 loop do
   x += 1
