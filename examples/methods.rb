@@ -3,41 +3,52 @@
 # Methods without arguments typically do not.
 # Parentheses are optional in both cases.
 
+# hello
 def hello
-  puts "Hello World!"
+  puts "Hello World!\n\n"
 end
 
+# greeting
 def greeting(name = "Joe")
-  puts "Hello #{name}!"
+  puts "Hello #{name}!\n\n"
 end
 
+# add
 def add(x=nil, y=nil)
   return x + y
 end
 
+# longest_word
 def longest_word(words=[])
   longest_word = words.inject do |memo, word|
     memo.length > word.length ? memo : word
   end
-  puts longest_word
+  puts "Longest word: " + longest_word
 end
 
+# longest_word2
 def longest_word2
   longest_word = @veggies.inject do |memo, word|
     memo.length > word.length ? memo : word
   end
-  puts longest_word
+  puts "Longest word: " + longest_word
 end
 
-# test methods.rb
+# method output
 hello
+
 greeting()
-greeting("John")
-puts add(50, 100)
+
+greeting("Jenny")
+
+puts "Output: #{add(50, 100)}"
+puts
 
 fruits = ['apple', 'cherry', 'pineapple', 'strawberry', 'orange']
 longest_word(fruits)
+puts
 
 # instance variable will have scope inside the method
 @veggies = ['beans', 'spinach', 'green beans', 'carrot', 'onion']
 longest_word2
+puts
