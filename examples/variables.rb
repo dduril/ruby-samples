@@ -1,4 +1,7 @@
-# Ruby program to declare and output variables
+# Ruby Examples
+# Developed in Aptana Studio 3
+# ----------------------------
+# Variables
 
 # Declare variables
 x = 100

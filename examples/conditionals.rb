@@ -1,3 +1,6 @@
+# Ruby Examples
+# Developed in Aptana Studio 3
+# ----------------------------
 # Conditionals
 
 # if, else, elsif

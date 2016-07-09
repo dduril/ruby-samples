@@ -1,7 +1,7 @@
+# Ruby Examples
+# Developed in Aptana Studio 3
+# ----------------------------
 # Methods
-# Methods with arguments typically use parentheses.
-# Methods without arguments typically do not.
-# Parentheses are optional in both cases.
 
 # hello
 def hello
