@@ -1,0 +1,5 @@
+Ruby Programming
+There are a lot of great resources for this popular programming language.
+
+Programming Ruby (the 'pick-axe' book), The Well-Grounded Rubyist, and Eloquent Ruby
+are great places to start your Ruby journey.
