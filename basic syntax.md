@@ -2,6 +2,18 @@
 
 ---
 
+<strong>Variables</strong>
+
+		# Declare variables
+		x = 100
+		y = 202.5
+		s = "Apples and oranges"
+
+		# Output variables and their class types
+		puts "x:       #{x}"
+		puts "y:       #{y}"
+		puts "s:       #{s}"
+
 <strong>Control Flow</strong>
 
 <strong>if - elsif - else</strong>
@@ -55,6 +67,10 @@
 
 <strong>iterators</strong>
 
+		# Output string 4 times
+		4.times { puts "Hello World!" }
+
+		# Output Hello 5 times
 		5.times do
   			puts "Hello"
 		end
