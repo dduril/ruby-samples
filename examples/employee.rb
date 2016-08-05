@@ -17,7 +17,7 @@ class Employee
 
   # class method
   def self.all_departments
-    ['Accounting', 'Engineering', 'Human Resources', 'Information Technology', 'Office Services']
+    ['Accounting', 'Engineering', 'Human Resources', 'Information Technology', 'Operations']
   end
 
   # class method
