@@ -6,9 +6,9 @@ module ContactInfo
   end
 
   def city_state_zip
-    csz = @city
-    csz += ", #{@state}" if @state
-    csz += "  #{@zip_code}" if @zip_code
-    return csz
+    address = @city
+    address += ", #{@state}" if @state
+    address += "  #{@zip_code}" if @zip_code
+    return address
   end
 end
