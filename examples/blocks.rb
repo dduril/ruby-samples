@@ -67,6 +67,6 @@ end
 puts longest_word
 puts
 
-menu = ['Home', 'History', 'Products', 'Services', 'Contact Us']
+menu = ['Home', 'About Us', 'Products', 'Services', 'Downloads', 'Training', 'Contact']
 menu_length = menu.inject(10) {|memo, item| memo + item.length}
 puts menu_length
