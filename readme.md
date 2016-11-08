@@ -36,6 +36,34 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 
 ---
 
+Recently, I had to reconfigure my system to get Ruby, Rails and Gems working correctly. Here is the command line session and what was required to get things working:
+
+		>rails new my_app
+		>cd my_app
+		>git init
+		>git add .
+		>git commit -m "Initial commit"
+		>rails server
+
+		# did not work!
+		# some diagnostics work to check installs
+
+		>gem environment
+		>gem list rails
+
+		#suggestion found on stackoverflow to match with version of rails
+
+		>gem install rails -v 4.2.5.1
+		>bundle install
+
+		>rails server
+		
+		#success! browse to http://localhost:3000
+
+		
+
+---
+
 ### Ruby Programming Language
 
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
