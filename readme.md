@@ -34,6 +34,8 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 		C:\>gem --version
 		2.4.6
 
+		C:\>phantomjs -v
+
 ---
 
 Recently, I had to reconfigure my system to get Ruby, Rails and Gems working correctly. Here is the command line session and what was required to get things working:
@@ -125,7 +127,8 @@ Recently, I had to reconfigure my system to get Ruby, Rails and Gems working cor
 
 - Agile Web Development with Rails
 - Eloquent Ruby
+- Head First Ruby
 - Programming Ruby (Pick-axe book)
-- Ruby on Rails 3 Tutorial
+- Ruby on Rails Tutorial
 - The Rails Way
 - The Well-Grounded Rubyist
