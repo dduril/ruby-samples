@@ -84,4 +84,17 @@ Find out more about *gem* and then list all installed gems and find out more abo
 
 		>gem
 		>gem list
+
+My application called for *httparty*, so install the gem.
+
+		>gem install httparty
 		>gem list httparty -d
+
+Update the *gemfile* for the Rails application.
+
+		gem 'httparty', '0.13.5'
+
+Back to the command line:
+
+		>bundle install
+ 
