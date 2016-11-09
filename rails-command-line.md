@@ -2,9 +2,9 @@
 
 ---
 
-### Terminal Sessions
+### Command Line Session
 
-I've documented some of the common command line operations and options here.
+I've documented some of the common command line operations and options here for a Rails test application.
 
 After installing Ruby, Rails and RubyGems - check the version:
 
