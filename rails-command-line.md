@@ -84,7 +84,7 @@ Run rake task for routes.
 
 		>rake routes
 
-##Ruby Gems
+##Gems
 
 Find out more about *gem* and then list all installed gems and find out more about a gem using *-d*
 
