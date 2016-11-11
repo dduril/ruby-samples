@@ -97,4 +97,17 @@ Update the *gemfile* for the Rails application.
 Back to the command line:
 
 		>bundle install
+
+**Heroku**
+
+Sign up for an account at **Heroku** and download the **Heroku Toolbelt**.
+
+Run various commands for **Heroku** help, login, create and open.
+
+		>heroku help
+		>heroku login
+		>heroku create [application_name]
+		>git remote -v
+		>git push heroku master
+		>heroku open
  
