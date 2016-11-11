@@ -2,9 +2,13 @@
 
 ---
 
+These are notes for a Ruby on Rails test project: *my_first_app*, which is a working example from a class. There are a lot of pieces that need to be installed and configured, so I would like to record that information here for future projects.
+
 ### Command Line Session
 
 I've documented some of the common command line operations and options here for a Rails test application.
+
+##Ruby, Rails, and Gems
 
 After installing Ruby, Rails and RubyGems - check the version:
 
@@ -33,6 +37,8 @@ Alternatively, you can also type <i>--version</i>, although most type the <i>-v<
 ---
 
 Recently, I had to reconfigure my system to get Ruby, Rails and Gems working correctly. Here is an excerpt from that session and what was required to get everything sync'd up.
+
+***(Note: shortening the command prompt to a single right bracket)***
 
 **First, create a new Rails application.**
 
@@ -64,7 +70,7 @@ Success! Open a browser and enter: http://localhost:3000
 
 Update browser path to http:localhost:3000/greeter/hello
 
-**Rake - Ruby Make**
+##Rake - Ruby Make
 
 List all rake tasks to see what is available.
 
@@ -78,7 +84,7 @@ Run rake task for routes.
 
 		>rake routes
 
-**Ruby Gems**
+##Ruby Gems
 
 Find out more about *gem* and then list all installed gems and find out more about a gem using *-d*
 
@@ -98,11 +104,11 @@ Back to the command line:
 
 		>bundle install
 
-**Heroku**
+##Heroku
 
 Sign up for an account at **Heroku** and download the **Heroku Toolbelt**.
 
-Run various commands for **Heroku** help, login, create and open.
+Run various commands for **Heroku**: help, login, create, and open.
 
 		>heroku help
 		>heroku login
