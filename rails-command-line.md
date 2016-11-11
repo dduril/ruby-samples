@@ -55,10 +55,17 @@ Some diagnostics work to check the installs:
 		>gem environment
 		>gem list rails
 
-Suggestion found on stackoverflow to match with version of rails to what was listed in diagnostic output.
+Suggestion found on stackoverflow to match with version of rails to what was listed in diagnostic output. On another Rails application, I had to run similar commands to install specific versions of *capybara*, *poltergiest*, and *phantomjs*.
 
 		>gem install rails -v 4.2.5.1
 		>bundle install
+
+Information returned from running this command may also suggest:
+
+		>gem install bundler --pre
+		>bundle update
+
+Try running the server again:
 
 		>rails server
 		
@@ -106,7 +113,7 @@ Back to the command line:
 
 ##Heroku
 
-Sign up for an account at **Heroku** and download the **Heroku Toolbelt**.
+Sign up for an account at **<a href="https://www.heroku.com/">Heroku</a>** and download the **<a href="https://devcenter.heroku.com/articles/heroku-command-line">Heroku Toolbelt</a>**.
 
 Run various commands for **Heroku**: help, login, create, and open.
 
