@@ -71,10 +71,17 @@ Additional code samples and command-line scripts will be added to appropriate fo
 
 ### Recommended Books
 
-- Agile Web Development with Rails
+**Ruby Language**
+
 - Eloquent Ruby
 - Head First Ruby
 - Programming Ruby (Pick-axe book)
+- Ruby Cookbook
+- The Well-Grounded Rubyist
+
+**Ruby on Rails Framework**
+
+- Agile Web Development with Rails
+- Rails 4 in Action
 - Ruby on Rails Tutorial
 - The Rails Way
-- The Well-Grounded Rubyist
