@@ -120,7 +120,22 @@ Run various commands for **Heroku**: help, login, create, and open.
 		>heroku help
 		>heroku login
 		>heroku create [application_name]
+
+Put application under source control:
+
 		>git remote -v
 		>git push heroku master
+
+Browse to application or run this command:
+
 		>heroku open
+
+Make some changes to the application, commit changes and run again (or refresh link in browser):
+
+		>git status
+		>git commit -am "Fix for application"
+		>git push heroku master
+		>heroku open
+
+
  
