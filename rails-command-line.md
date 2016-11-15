@@ -137,5 +137,19 @@ Make some changes to the application, commit changes and run again (or refresh l
 		>git push heroku master
 		>heroku open
 
+##Rails Scaffolding
 
+**Create a new Rails application**
+
+		>rails new my_car_app
+		>cd my_car_app
+		>git init
+		>git add .
+		>git commit -m "Initial commit"
+		
+Add Scaffolding
+
+		>rails g scaffold car make color year:integer
+		>rake db:migrate
+		>rails server
  

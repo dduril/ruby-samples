@@ -28,6 +28,7 @@ Additional code samples and command-line scripts will be added to appropriate fo
 - **<a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank">Rails - Wikipedia</a>**
 - **<a href="http://bundler.io/" target="_blank">Bundler</a>**
 - **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>** 
+- **<a href="http://guides.rubyonrails.org/active_record_basics.html" target="_blank">Active Record</a>**
 
 ### Deployment Options
 
