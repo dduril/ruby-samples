@@ -147,9 +147,15 @@ Make some changes to the application, commit changes and run again (or refresh l
 		>git add .
 		>git commit -m "Initial commit"
 		
-Add Scaffolding
+Add Scaffolding for Cars
 
 		>rails g scaffold car make color year:integer
+		>rake db:migrate
+		>rails server
+
+Add Price Column to Cars Table
+
+		>rails g migration add_price_to_cars 'price:decimal{10,2}'
 		>rake db:migrate
 		>rails server
  
