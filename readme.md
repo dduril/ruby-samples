@@ -30,6 +30,10 @@ Additional code samples and command-line scripts will be added to appropriate fo
 - **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>** 
 - **<a href="http://guides.rubyonrails.org/active_record_basics.html" target="_blank">Active Record</a>**
 
+### Cloud Development
+
+- **<a href="https://c9.io/" target="_blank">Cloud9</a>**
+
 ### Deployment Options
 
 - **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**

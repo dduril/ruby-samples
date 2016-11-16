@@ -42,11 +42,15 @@ Recently, I had to reconfigure my system to get Ruby, Rails and Gems working cor
 
 **First, create a new Rails application.**
 
+In this section, I will also include the requisite git version control.
+
 		>rails new my_app
 		>cd my_app
 		>git init
 		>git add .
+		>git status
 		>git commit -m "Initial commit"
+		>git log
 		>rails server
 
 Did not work!
