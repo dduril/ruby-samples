@@ -17,7 +17,7 @@ Additional code samples and command-line scripts will be added to appropriate fo
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
 - **<a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" target="_blank">Ruby - Wikipedia</a>**
 
-### RubyGems
+### Ruby Gems
 
 - **<a href="https://rubygems.org/" target="_blank">RubyGems</a>**
 - **<a href="https://en.wikipedia.org/wiki/RubyGems" target="_blank">RubyGems - Wikipedia</a>**
@@ -38,7 +38,7 @@ Additional code samples and command-line scripts will be added to appropriate fo
 
 - **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
 - **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
-- **<a href="https://toolbelt.heroku.com/" target="_blank">Heroku Toolbelt</a>**
+	- **<a href="https://toolbelt.heroku.com/" target="_blank">Heroku Toolbelt</a>**
 - **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
 
 ### Often Used with Rails - Web Development
@@ -58,13 +58,14 @@ Additional code samples and command-line scripts will be added to appropriate fo
 
 ### Development Environments (IDE)
 
-- **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
-- **<a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>**
+- **<a href="http://www.activestate.com/komodo-ide" target="_blank">ActiveState Komodo IDE</a>**
+- **<a href="http://www.aptana.com/products/radrails.html" target="_blank">Aptana RadRails</a>**
+- **<a href="https://www.jetbrains.com/ruby/" target="_blank">Jetbrains RubyMine</a>**
 - **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 
 ### Tools - Version Control
 
-- **<a href="https://bitbucket.org/" target="_blank">Bitbucket</a>**
+- **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
@@ -82,7 +83,6 @@ Additional code samples and command-line scripts will be added to appropriate fo
 - Eloquent Ruby
 - Head First Ruby
 - Programming Ruby (Pick-axe book)
-- Ruby Cookbook
 - The Well-Grounded Rubyist
 
 **Ruby on Rails Framework**
