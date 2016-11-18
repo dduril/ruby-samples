@@ -2,11 +2,13 @@
 
 ---
 
-These are notes for a Ruby on Rails test project: *my_first_app*, which is a working example from a class. There are a lot of pieces that need to be installed and configured, so I would like to record that information here for future projects.
+These are notes for a Ruby on Rails test project: *my_first_app*, which is a working example from a class. There's very little actual code in the application, this first project was more about installing and configuring Ruby, Rails, a number of gems, and Heroku on Windows.
+
+I've since started reading Ruby on Rails Tutorial by Michael Hartl, and set up an alternate workflow using **Cloud9**, **Bitbucket** and **Heroku**.
 
 ### Command Line Session
 
-I've documented some of the common command line operations and options here for a Rails test application.
+Documenting some of the command-line session from developing *my_first_app*. This is not comprehensive, but serves as a reminder when setting up subsequent projects.
 
 ##Ruby, Rails, and Gems
 
