@@ -8,7 +8,7 @@ I've since started reading Ruby on Rails Tutorial by Michael Hartl, and set up a
 
 ### Command Line Session
 
-Documenting some of the command-line session from developing *my_first_app*. This is not comprehensive, but serves as a reminder when setting up subsequent projects.
+Documenting some of the command-line session from developing *my_first_app*. This is not comprehensive, but serves as a reminder when setting up subsequent projects. 
 
 ##Ruby, Rails, and Gems
 
@@ -165,3 +165,31 @@ Add Price Column to Cars Table
 		>rake db:migrate
 		>rails server
  
+---
+
+###Rails Development Workflow
+
+Check status of repo and create new branch:
+
+		$ git status
+		$ git checkout -b new-feature
+
+Do work and run tests:
+		
+		$ bundle exec rake test
+
+Commit and merge branch into repo:
+		
+		$ git add -A
+		$ git commit -m "Finish new feature"
+		
+		$ git checkout master
+		$ git merge new-feature
+
+Push source to Bitbucket.
+		
+		$ git push
+
+Deploy application to Heroku.
+		
+		$ git push heroku
