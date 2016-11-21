@@ -2,9 +2,7 @@
 
 The goal is to provide a Ruby on Rails primer with resources for getting started, essential websites and examples of the Ruby programming language and Rails command-line interface. 
 
-Included here are popular links for Ruby Programming and Ruby on Rails Web Development.
-
-Additional code samples and command-line scripts will be added to appropriate folders.
+Included here are links for Ruby Programming and Ruby on Rails Web Development.
 
 ---
 
