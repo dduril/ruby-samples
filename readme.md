@@ -1,9 +1,5 @@
 # Ruby on Rails
 
-The goal is to provide a Ruby on Rails primer with resources for getting started, essential websites and examples of the Ruby programming language and Rails command-line interface. 
-
-Included here are links for Ruby Programming and Ruby on Rails Web Development.
-
 ---
 
 ### Getting Started
@@ -87,5 +83,5 @@ Included here are links for Ruby Programming and Ruby on Rails Web Development.
 
 - Agile Web Development with Rails
 - Rails 4 in Action
-- Ruby on Rails Tutorial
+- Ruby on Rails Tutorial - Third Edition
 - The Rails Way
