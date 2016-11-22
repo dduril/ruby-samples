@@ -165,4 +165,27 @@ Working from the [Ruby on Rails Tutorial](https://www.railstutorial.org/ "Ruby o
 		>> puts "x is not empty" if !x.empty?
 		x is not empty
 		=> nil
+	
+
+**Method Definitions**
+
+		>> def string_message(str = '')
+		>>   if str.empty?
+		>>     "It's an empty string!"
+		>>   else
+		>>*     "The string is nonempty."
+		>>   end
+		>> end
+		=> :string_message
 		
+		>> puts string_message("foobar")
+		The string is nonempty.
+		=> nil
+		
+		>> puts string_message("")
+		It's an empty string!
+		=> nil
+		
+		>> puts string_message
+		It's an empty string!
+		=> nil	
