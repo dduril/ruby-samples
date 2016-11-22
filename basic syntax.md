@@ -86,4 +86,46 @@
 		# => 3. Hello
 		# => 4. Hello
 		# => 5. Hello
+
+---
+
+###Using the Interactive Ruby (irb) Console
+
+Working from the [Ruby on Rails Tutorial](https://www.railstutorial.org/ "Ruby on Rails Tutorial Third Edition") by Michael Hartl.
+
+**Simple Math**
+
+		>> 17 + 42 # integer addition
+		=> 59
+
+**Strings**
+
+		>> "foo" + "bar"
+		=> "foobar"
+
+		>> first_name = "John"
+		=> "John"
+		
+		>> "#{first_name} Smith"
+		=> "John Smith"
+		
+		>> last_name = "Smith"
+		=> "Smith"
+		
+		>> first_name + " " + last_name
+		=> "John Smith"
+		
+		>> "#{first_name} #{last_name}"
+		=> "John Smith"
+		
+		>> puts "foo"
+		foo
+		=> nil
+		
+		>> print "foo"
+		foo=> nil
+		
+		>> print "foo\n"
+		foo
+		=> nil
 		
