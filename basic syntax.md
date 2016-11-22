@@ -128,4 +128,41 @@ Working from the [Ruby on Rails Tutorial](https://www.railstutorial.org/ "Ruby o
 		>> print "foo\n"
 		foo
 		=> nil
+
+**Objects and Message Passing**
+
+		>> "foobar".length
+		=> 6
+		
+		>> "foobar".empty?
+		=> false
+		
+		>> "".empty?
+		=> true
+		
+		>> s = "foobar"
+		=> "foobar"
+		
+		>> if s.empty?
+		>>   "The string is empty"
+		>> else
+		>>*   "The string is not empty"
+		>> end
+		=> "The string is not empty"
+		
+		>> "foo".nil?
+		=> false
+		
+		>> "".nil?
+		=> false
+		
+		>> nil.nil?
+		=> true
+		
+		>> x = "foo"
+		=> "foo"
+		
+		>> puts "x is not empty" if !x.empty?
+		x is not empty
+		=> nil
 		
