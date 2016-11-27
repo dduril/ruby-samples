@@ -193,6 +193,72 @@ Working from the [Ruby on Rails Tutorial](https://www.railstutorial.org/ "Ruby o
 
 **Arrays and Ranges**
 
+		>> "foo bar        baz".split
+		=> ["foo", "bar", "baz"]
+		
+		>> a = [42, 17, 8, 15, 23]
+		=> [42, 17, 8, 15, 23]
+		
+		>> a[0]
+		=> 42
+		
+		>> a[1]
+		=> 17
+		
+		>> a[4]
+		=> 23
+		
+		>> a[-1]
+		=> 23
+		
+		>> a.first
+		=> 42
+		
+		>> a.last
+		=> 23
+		
+		>> a.last == a[-1]
+		=> true
+		
+		>> x = a.length
+		=> 5
+		
+		>> a
+		=> [42, 17, 8, 15, 23]
+		
+		>> a.empty?
+		=> false
+		
+		>> a.include?(42)
+		=> true
+		
+		>> a.sort
+		=> [8, 15, 17, 23, 42]
+		
+		>> a.reverse
+		=> [23, 15, 8, 17, 42]
+		
+		>> a.shuffle
+		=> [23, 8, 15, 42, 17]
+		
+		>> a.sort!
+		=> [8, 15, 17, 23, 42]
+		
+		>> a
+		=> [8, 15, 17, 23, 42]
+		
+		>> a.push(10)
+		=> [8, 15, 17, 23, 42, 10]
+		
+		>> a << 32
+		=> [8, 15, 17, 23, 42, 10, 32]
+		
+		>> a << "foo" << "bar" << "baz"
+		=> [8, 15, 17, 23, 42, 10, 32, "foo", "bar", "baz"]
+		
+		>> a.join(', ')
+		=> "8, 15, 17, 23, 42, 10, 32, foo, bar, baz"
+
 **Blocks**
 
 **Hashes and Symbols**
