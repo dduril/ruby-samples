@@ -189,3 +189,12 @@ Working from the [Ruby on Rails Tutorial](https://www.railstutorial.org/ "Ruby o
 		>> puts string_message
 		It's an empty string!
 		=> nil	
+
+
+**Arrays and Ranges**
+
+**Blocks**
+
+**Hashes and Symbols**
+
+**Classes**
