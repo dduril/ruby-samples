@@ -2,10 +2,6 @@
 
 ---
 
-### Getting Started
-
-- **<a href="http://railsinstaller.org/en" target="_blank">RailsInstaller</a>**
-
 ### Ruby Programming Language
 
 - **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
@@ -67,6 +63,7 @@
 
 ### Tutorials
 
+- **<a href="http://railsinstaller.org/en" target="_blank">Getting Started - Rails Installer</a>**
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
 
