@@ -18,9 +18,9 @@
 
 ### Ruby on Rails
 
-- **<a href="http://api.rubyonrails.org/" target="_blank">Ruby on Rails API</a>**
 - **<a href="http://rubyonrails.org/" target="_blank">Rails</a>**
 - **<a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank">Rails - Wikipedia</a>**
+- **<a href="http://api.rubyonrails.org/" target="_blank">Ruby on Rails API</a>**
 - **<a href="http://bundler.io/" target="_blank">Bundler</a>**
 - **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>** 
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
